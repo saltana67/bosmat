@@ -5,36 +5,61 @@
 
 ## kuchenki
 
+| **producent** | **model**      | **szerokosc** | **glebokosc** | **wysokosc** |   |   |   |
+|---------------|----------------|--------------:|--------------:|-------------:|---|---|---|
+| DOMETIC       | Slim Sunlight  |           475 |           357 |          390 |   |   |   |
+| DOMETIC       | Slim Starlight |           475 |           357 |          540 |   |   |   |
+| TECHIMPEX     | Topline        |     530 (500) |     485 (383) |          460 |   |   |   |
+| TECHIMPEX     | MarinerTwo     |     530 (500) |     484 (383) |          460 |   |   |   |
+|               |                |               |               |              |   |   |   |
+|               |                |               |               |              |   |   |   |
+|               |                |               |               |              |   |   |   |
+
+
 [w katalog Osculati](https://docweb.osculati.com/flip/OSCULATI-2025-POL/946/)
 [w katalogu Dometic](https://www.dometic.com/pl-pl/outdoor/lodki/kuchnia-na-lodzi)
 
-475(449)x357x398      (h) DOMETIC Slim Sunlight gas cooker 2 burners          https://www.osculati.com/pl/11203-50.366.02/dometic-slim-sunlight-gas-cooker-2-burners
-                                                                              https://www.dometic.com/pl-pl/outdoor/lodki/kuchnia-na-lodzi/piekarniki-do-lodzi/dometic-oh-2280-s-74887?v=9103303823 4.815 PLN
+475(449)x357x398      (h) DOMETIC Slim Sunlight gas cooker 2 burners
+
+- [@Dometic](https://www.dometic.com/pl-pl/outdoor/lodki/kuchnia-na-lodzi/piekarniki-do-lodzi/dometic-oh-2280-s-74887?v=9103303823) 4.815 PLN
+- [@osculati](https://www.osculati.com/pl/11203-50.366.02/dometic-slim-sunlight-gas-cooker-2-burners)
                                                                               
-475(460)x357x540(508) (h) DOMETIC Slim Starlight gas cooker 2 burners grill   https://www.osculati.com/pl/11203-50.366.22/
-                                                                              https://www.dometic.com/pl-pl/outdoor/lodki/kuchnia-na-lodzi/piekarniki-do-lodzi/dometic--starlight-74886?v=9103303822 5.765 PLN 
-                                                                              https://www.koberger-hamburg.de/dometic-starlight-9103303822.html 777,22 €
-                                                                              https://abribat.fr/plaque-micro-ondes-hotte-/938-cuisiniere-gaz-dometic-9103303822-starlight 969,00 €
-                                                                              https://www.amazon.de/DOMETIC-90300277-Starlight-Cooker-Marine/dp/B00UAMXEP6/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1 802,97 €
-                                                                              
-530(500)x460x485(383)     TECHIMPEX Topline TOPTHREE 3 burners                https://www.osculati.com/pl/11202-50.380.00/
-
-530(500)x460x475(383)     TECHIMPEX Marinertwo 2 burners                      https://www.osculati.com/pl/11202-50.370.00/
-
-TECHIMPEX XL2 cooker 2 burners+oven https://www.osculati.com/pl/11202-50.385.02/
-
-470-496-518-547     Eno Force10 2 burners  https://www.boatoon.com/de/shop/eno-force10-einbauofen-2-flammig-18702.html 1.848,90 €
-
-Eno Force10 Einbauofen 3-flammig https://www.boatoon.com/de/shop/eno-force10-einbauofen-3-flammig-18707.html 2.089,90 €
-
-https://www.boatoon.com/de/shop/eno-gascogne-2-flammiger-einbauofen-modell-mit-grill-19672.html
+475(460)x357x540(508) (h) DOMETIC Slim Starlight gas cooker 2 burners grill   
+- [@Osculati](https://www.osculati.com/pl/11203-50.366.22/)
+- [@Dometic](https://www.dometic.com/pl-pl/outdoor/lodki/kuchnia-na-lodzi/piekarniki-do-lodzi/dometic--starlight-74886?v=9103303822) 5.765 PLN 
+- [@kolberg](https://www.koberger-hamburg.de/dometic-starlight-9103303822.html) 777,22 €
+- [@amazon](https://www.amazon.de/DOMETIC-90300277-Starlight-Cooker-Marine/dp/B00UAMXEP6/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1) 802,97 €
 
 
-https://www.boatoon.com/de/shop/eno-opensea-einbauofen-ausfuhrung-3-flammig-19668.html
+530(500)x460x485(383)     TECHIMPEX Topline TOPTHREE 3 burners  
+- [@Osculati](https://www.osculati.com/pl/11202-50.380.00/)
+- [@abribat.fr](https://abribat.fr/plaque-micro-ondes-hotte-/938-cuisiniere-gaz-dometic-9103303822-starlight) 969,00 €
+- [Rysunek](https://www.osculati.com/document-handler.ashx?itemno=50.380.00&contentrefno=FILE&docpath=DAM2D/50.380.00.pdf)
 
-https://www.tradeinn.com/waveinn/de/eno-eine-kuche-mit-backofen/139714098/p
+530(500)x460x475(383)     TECHIMPEX Marinertwo 2 burners
+- [@Osculati](https://www.osculati.com/pl/11202-50.370.00/)
+- [Rysunek](https://www.osculati.com/document-handler.ashx?itemno=50.370.00&contentrefno=FILE&docpath=DAMST/50.370.00.pdf)
 
-https://www.boatoon.com/de/shop/eno-one-basiskocher-30mbar-833.html
+TECHIMPEX XL2 cooker 2 burners+oven 
+- [@Osculati](https://www.osculati.com/pl/11202-50.385.02/)
+
+470-496-518-547     Eno Force10 2 burners  
+- [@Batoon](https://www.boatoon.com/de/shop/eno-force10-einbauofen-2-flammig-18702.html) 1.848,90 €
+
+Eno Force10 Einbauofen 3-flammig 
+- [@boaton](https://www.boatoon.com/de/shop/eno-force10-einbauofen-3-flammig-18707.html) 2.089,90 €
+
+ENO GASCOGNE
+- [@Boaton](https://www.boatoon.com/de/shop/eno-gascogne-2-flammiger-einbauofen-modell-mit-grill-19672.html)
+
+ENO OPENSEA
+- [@Boatoon](https://www.boatoon.com/de/shop/eno-opensea-einbauofen-ausfuhrung-3-flammig-19668.html)
+
+ENO ???
+- [@tradeinn](https://www.tradeinn.com/waveinn/de/eno-eine-kuche-mit-backofen/139714098/p)
+
+ENO ONE
+- [@Boatoon](https://www.boatoon.com/de/shop/eno-one-basiskocher-30mbar-833.html)
 
 
 https://thermoprodukter.se/products/eno-open-sea-2-lagig-grill?pr_prod_strat=e5_desc&pr_rec_id=36054200d&pr_rec_pid=9728738361610&pr_ref_pid=9728718143754&pr_seq=uniform
