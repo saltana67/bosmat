@@ -2,6 +2,7 @@
 
 Lista tematow
 - [kambuz](./bosmat-kambuz.md)
+- [elektryka](./bosmat-elektryka.md)
 - [kotwica](./bosmat-anchor.md)
 - [silnik](./bosmat-vetus.md)
 

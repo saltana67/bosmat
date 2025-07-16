@@ -5,16 +5,24 @@
 
 ## kuchenki
 
-| **producent** | **model**      | **szerokosc** | **glebokosc** | **wysokosc** |   |   |   |
-|---------------|----------------|--------------:|--------------:|-------------:|---|---|---|
-| DOMETIC       | Slim Sunlight  |           475 |           357 |          390 |   |   |   |
-| DOMETIC       | Slim Starlight |           475 |           357 |          540 |   |   |   |
-| TECHIMPEX     | Topline        |     530 (500) |     485 (383) |          460 |   |   |   |
-| TECHIMPEX     | MarinerTwo     |     530 (500) |     484 (383) |          460 |   |   |   |
-|               |                |               |               |              |   |   |   |
-|               |                |               |               |              |   |   |   |
-|               |                |               |               |              |   |   |   |
-
+| **producent** | **model**            | **szerokosc** | **glebokosc** | **wysokosc** |   |   |   |
+|---------------|----------------------|--------------:|--------------:|-------------:|---|---|---|
+| FORCE 10      | XM                   |     496 (459) |     572 (411) |    559 (557) |   |   |   |
+| FORCE 10      | Euro Standard        |   517,5 (481) |     578 (509) |  603 (588,5) |   |   |   |
+| FORCE 10      | Euro Compact         |           518 |           521 |          533 |   |   |   |
+| FORCE 10      | Euro Subcompact      |           470 |           521 |          533 |   |   |   |
+| DOMETIC       | Slim Sunlight        |           475 |           357 |          390 |   |   |   |
+| DOMETIC       | Slim Starlight       |           475 |           357 |          540 |   |   |   |
+| TECHIMPEX     | Topline              |     530 (500) |     485 (383) |          460 |   |   |   |
+| TECHIMPEX     | MarinerTwo           |     530 (500) |     484 (383) |          460 |   |   |   |
+| TECHIMPEX     | XL2                  |     530 (500) |     484 (383) |          460 |   |   |   |
+| ENO           | GASCOGNE             |     530 (515) |     548 (446) |    523 (470) |   |   |   |
+| ENO           | GASCOGNE + GRILL     |     530 (515) |     548 (446) |    523 (470) |   |   |   |
+| ENO           | Open Sea GRAND LARGE |     530 (515) |     548 (447) |    523 (470) |   |   |   |
+| ENO           | The One              |     530 (515) |     548 (432) |    523 (470) |   |   |   |
+| ENO           | BRETAGNE             |     514 (501) |     610 (560) |          470 |   |   |   |
+|               |                      |               |               |              |   |   |   |
+|               |                      |               |               |              |   |   |   |
 
 [w katalog Osculati](https://docweb.osculati.com/flip/OSCULATI-2025-POL/946/)
 [w katalogu Dometic](https://www.dometic.com/pl-pl/outdoor/lodki/kuchnia-na-lodzi)
@@ -54,6 +62,7 @@ ENO GASCOGNE
 
 ENO OPENSEA
 - [@Boatoon](https://www.boatoon.com/de/shop/eno-opensea-einbauofen-ausfuhrung-3-flammig-19668.html)
+- [@thermoprodukter.se](https://thermoprodukter.se/products/eno-open-sea-2-lagig-grill?pr_prod_strat=e5_desc&pr_rec_id=36054200d&pr_rec_pid=9728738361610&pr_ref_pid=9728718143754&pr_seq=uniform)
 
 ENO ???
 - [@tradeinn](https://www.tradeinn.com/waveinn/de/eno-eine-kuche-mit-backofen/139714098/p)
