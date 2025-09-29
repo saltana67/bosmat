@@ -5,7 +5,7 @@ Lista tematow
 - [elektryka](./bosmat-elektryka.md)
 - [kotwica](./bosmat-anchor.md)
 - [silnik](./bosmat-vetus.md)
-
+- [autopilot](./autopilot.md)
 
 **Inline**
 
