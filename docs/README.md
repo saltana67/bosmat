@@ -37,3 +37,7 @@ Ciao!
 ```gltf
 3d/scene.gltf
 ```
+
+```gltf
+3d/kambuz_blat-Body.gltf
+```

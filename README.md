@@ -1,2 +1,2 @@
 # bosmat
-Bosmat
+Bosmat [->](https://saltana67.github.io/bosmat)
